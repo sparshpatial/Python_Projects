@@ -1,4 +1,3 @@
 # Python_Projects
+This repository is full of the mini python projects.
 
-1. DIGITAL CLOCK .
-2. GUESSING GAME .
