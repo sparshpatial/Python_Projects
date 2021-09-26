@@ -11,4 +11,5 @@ image = pyscreenshot.grab()
 image.show()
   
 # To save the screenshot
+#screenshot will be save as the name you specify .
 image.save("screenshot.png")
