@@ -1,13 +1,13 @@
-Height=float(input("Input your Height in Centimeters: "))
+Height=float(input("Input your Height in Centimeters: "))# asks for user's height
 
-Weight=float(input("Input your Weight in Kgs: "))
+Weight=float(input("Input your Weight in Kgs: "))# asks for user's weight
 
 Height = Height/100
 
-BMI=Weight/(Height*Height)
+BMI=Weight/(Height*Height)#BMI caclulating
 
 print("Your Body Mass Index(BMI) is: ",BMI)
-
+#accordingly prints the BMI index of the user
 if(BMI>0):
 
     if(BMI<=16):
