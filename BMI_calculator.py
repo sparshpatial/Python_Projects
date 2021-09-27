@@ -4,7 +4,7 @@ Weight=float(input("Input your Weight in Kgs: "))# asks for user's weight
 
 Height = Height/100
 
-BMI=Weight/(Height*Height)#BMI caclulating
+BMI=Weight/(Height*Height)#calculating BMI index
 
 print("Your Body Mass Index(BMI) is: ",BMI)
 #accordingly prints the BMI index of the user
