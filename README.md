@@ -4,3 +4,4 @@ This repository consists of the mini python projects.
 2. GUESSING GAME
 3. SCREENSHOT CAPTURING 
 4. BMI CALCULATOR
+5. LANGUAGE DETECTOR
