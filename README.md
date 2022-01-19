@@ -5,4 +5,5 @@ This repository consists of the MINI PYTHON PROJECTS .
 3. <a href="https://github.com/sparshpatial/Python_Projects/tree/main/Capturing%20Screenshot">SCREENSHOT CAPTURING</a> 
 4. <a href="https://github.com/sparshpatial/Python_Projects/blob/main/BMI_calculator.py">BMI CALCULATOR</a>
 5. <a href="https://github.com/sparshpatial/Python_Projects/tree/main/lang_detect">LANGUAGE DETECTOR</a>
-5. <a href="https://github.com/sparshpatial/Python_Projects/blob/main/Tkinter%20basics.py">TKINTER BASICS</a>
+6. <a href="https://github.com/sparshpatial/Python_Projects/blob/main/Tkinter%20basics.py">TKINTER BASICS</a>
+7. <a href ="https://github.com/sparshpatial/Python_Projects/blob/main/Image%20conversion%20into%20Array.ipynb">IMAGE TO ARRAY</a>
